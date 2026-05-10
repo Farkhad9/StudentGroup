@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\StudentGroup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3742AF25-07C7-44C0-8FEB-DAB4CC0588E2}|StudentGroup\\StudentGroup.csproj|c:\\users\\user\\desktop\\studentgroup\\studentgroup\\dtos\\studentdtos\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3742AF25-07C7-44C0-8FEB-DAB4CC0588E2}|StudentGroup\\StudentGroup.csproj|solutionrelative:studentgroup\\dtos\\studentdtos\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3742AF25-07C7-44C0-8FEB-DAB4CC0588E2}|StudentGroup\\StudentGroup.csproj|c:\\users\\user\\desktop\\studentgroup\\studentgroup\\dtos\\groupdtos\\groupupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3742AF25-07C7-44C0-8FEB-DAB4CC0588E2}|StudentGroup\\StudentGroup.csproj|solutionrelative:studentgroup\\dtos\\groupdtos\\groupupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3742AF25-07C7-44C0-8FEB-DAB4CC0588E2}|StudentGroup\\StudentGroup.csproj|c:\\users\\user\\desktop\\studentgroup\\studentgroup\\dtos\\groupdtos\\groupgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3742AF25-07C7-44C0-8FEB-DAB4CC0588E2}|StudentGroup\\StudentGroup.csproj|solutionrelative:studentgroup\\dtos\\groupdtos\\groupgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3742AF25-07C7-44C0-8FEB-DAB4CC0588E2}|StudentGroup\\StudentGroup.csproj|c:\\users\\user\\desktop\\studentgroup\\studentgroup\\dtos\\groupdtos\\groupdeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3742AF25-07C7-44C0-8FEB-DAB4CC0588E2}|StudentGroup\\StudentGroup.csproj|solutionrelative:studentgroup\\dtos\\groupdtos\\groupdeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3742AF25-07C7-44C0-8FEB-DAB4CC0588E2}|StudentGroup\\StudentGroup.csproj|c:\\users\\user\\desktop\\studentgroup\\studentgroup\\dtos\\groupdtos\\groupcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3742AF25-07C7-44C0-8FEB-DAB4CC0588E2}|StudentGroup\\StudentGroup.csproj|solutionrelative:studentgroup\\dtos\\groupdtos\\groupcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3742AF25-07C7-44C0-8FEB-DAB4CC0588E2}|StudentGroup\\StudentGroup.csproj|c:\\users\\user\\desktop\\studentgroup\\studentgroup\\dtos\\studentdtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3742AF25-07C7-44C0-8FEB-DAB4CC0588E2}|StudentGroup\\StudentGroup.csproj|solutionrelative:studentgroup\\dtos\\studentdtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3742AF25-07C7-44C0-8FEB-DAB4CC0588E2}|StudentGroup\\StudentGroup.csproj|c:\\users\\user\\desktop\\studentgroup\\studentgroup\\dtos\\studentdtos\\studentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3742AF25-07C7-44C0-8FEB-DAB4CC0588E2}|StudentGroup\\StudentGroup.csproj|solutionrelative:studentgroup\\dtos\\studentdtos\\studentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3742AF25-07C7-44C0-8FEB-DAB4CC0588E2}|StudentGroup\\StudentGroup.csproj|c:\\users\\user\\desktop\\studentgroup\\studentgroup\\validations\\groupcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3742AF25-07C7-44C0-8FEB-DAB4CC0588E2}|StudentGroup\\StudentGroup.csproj|solutionrelative:studentgroup\\validations\\groupcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3742AF25-07C7-44C0-8FEB-DAB4CC0588E2}|StudentGroup\\StudentGroup.csproj|c:\\users\\user\\desktop\\studentgroup\\studentgroup\\validations\\groupupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3742AF25-07C7-44C0-8FEB-DAB4CC0588E2}|StudentGroup\\StudentGroup.csproj|solutionrelative:studentgroup\\validations\\groupupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3742AF25-07C7-44C0-8FEB-DAB4CC0588E2}|StudentGroup\\StudentGroup.csproj|c:\\users\\user\\desktop\\studentgroup\\studentgroup\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3742AF25-07C7-44C0-8FEB-DAB4CC0588E2}|StudentGroup\\StudentGroup.csproj|solutionrelative:studentgroup\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3742AF25-07C7-44C0-8FEB-DAB4CC0588E2}|StudentGroup\\StudentGroup.csproj|c:\\users\\user\\desktop\\studentgroup\\studentgroup\\validations\\studentupdatedtovalidator .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3742AF25-07C7-44C0-8FEB-DAB4CC0588E2}|StudentGroup\\StudentGroup.csproj|solutionrelative:studentgroup\\validations\\studentupdatedtovalidator .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3742AF25-07C7-44C0-8FEB-DAB4CC0588E2}|StudentGroup\\StudentGroup.csproj|c:\\users\\user\\desktop\\studentgroup\\studentgroup\\validations\\studentcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3742AF25-07C7-44C0-8FEB-DAB4CC0588E2}|StudentGroup\\StudentGroup.csproj|solutionrelative:studentgroup\\validations\\studentcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3742AF25-07C7-44C0-8FEB-DAB4CC0588E2}|StudentGroup\\StudentGroup.csproj|c:\\users\\user\\desktop\\studentgroup\\studentgroup\\studentgroup.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3742AF25-07C7-44C0-8FEB-DAB4CC0588E2}|StudentGroup\\StudentGroup.csproj|solutionrelative:studentgroup\\studentgroup.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3742AF25-07C7-44C0-8FEB-DAB4CC0588E2}|StudentGroup\\StudentGroup.csproj|c:\\users\\user\\desktop\\studentgroup\\studentgroup\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3742AF25-07C7-44C0-8FEB-DAB4CC0588E2}|StudentGroup\\StudentGroup.csproj|solutionrelative:studentgroup\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroupUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\StudentGroup\\StudentGroup\\Dtos\\GroupDtos\\GroupUpdateDto.cs",
+              "RelativeDocumentMoniker": "StudentGroup\\Dtos\\GroupDtos\\GroupUpdateDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\StudentGroup\\StudentGroup\\Dtos\\GroupDtos\\GroupUpdateDto.cs*",
+              "RelativeToolTip": "StudentGroup\\Dtos\\GroupDtos\\GroupUpdateDto.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:47:35.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GroupGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\StudentGroup\\StudentGroup\\Dtos\\GroupDtos\\GroupGetDto.cs",
+              "RelativeDocumentMoniker": "StudentGroup\\Dtos\\GroupDtos\\GroupGetDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\StudentGroup\\StudentGroup\\Dtos\\GroupDtos\\GroupGetDto.cs",
+              "RelativeToolTip": "StudentGroup\\Dtos\\GroupDtos\\GroupGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:47:34.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroupDeleteDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\StudentGroup\\StudentGroup\\Dtos\\GroupDtos\\GroupDeleteDto.cs",
+              "RelativeDocumentMoniker": "StudentGroup\\Dtos\\GroupDtos\\GroupDeleteDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\StudentGroup\\StudentGroup\\Dtos\\GroupDtos\\GroupDeleteDto.cs",
+              "RelativeToolTip": "StudentGroup\\Dtos\\GroupDtos\\GroupDeleteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:47:33.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GroupCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\StudentGroup\\StudentGroup\\Dtos\\GroupDtos\\GroupCreateDto.cs",
+              "RelativeDocumentMoniker": "StudentGroup\\Dtos\\GroupDtos\\GroupCreateDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\StudentGroup\\StudentGroup\\Dtos\\GroupDtos\\GroupCreateDto.cs*",
+              "RelativeToolTip": "StudentGroup\\Dtos\\GroupDtos\\GroupCreateDto.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:47:22.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\StudentGroup\\StudentGroup\\Dtos\\StudentDtos\\StudentCreateDto.cs",
+              "RelativeDocumentMoniker": "StudentGroup\\Dtos\\StudentDtos\\StudentCreateDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\StudentGroup\\StudentGroup\\Dtos\\StudentDtos\\StudentCreateDto.cs*",
+              "RelativeToolTip": "StudentGroup\\Dtos\\StudentDtos\\StudentCreateDto.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:46:44.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\StudentGroup\\StudentGroup\\Dtos\\StudentDtos\\StudentUpdateDto.cs",
+              "RelativeDocumentMoniker": "StudentGroup\\Dtos\\StudentDtos\\StudentUpdateDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\StudentGroup\\StudentGroup\\Dtos\\StudentDtos\\StudentUpdateDto.cs*",
+              "RelativeToolTip": "StudentGroup\\Dtos\\StudentDtos\\StudentUpdateDto.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:45:50.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\StudentGroup\\StudentGroup\\Dtos\\StudentDtos\\StudentGetDto.cs",
+              "RelativeDocumentMoniker": "StudentGroup\\Dtos\\StudentDtos\\StudentGetDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\StudentGroup\\StudentGroup\\Dtos\\StudentDtos\\StudentGetDto.cs",
+              "RelativeToolTip": "StudentGroup\\Dtos\\StudentDtos\\StudentGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:45:48.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GroupUpdateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\StudentGroup\\StudentGroup\\Validations\\GroupUpdateDtoValidator.cs",
+              "RelativeDocumentMoniker": "StudentGroup\\Validations\\GroupUpdateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\StudentGroup\\StudentGroup\\Validations\\GroupUpdateDtoValidator.cs*",
+              "RelativeToolTip": "StudentGroup\\Validations\\GroupUpdateDtoValidator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:44:25.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GroupCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\StudentGroup\\StudentGroup\\Validations\\GroupCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "StudentGroup\\Validations\\GroupCreateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\StudentGroup\\StudentGroup\\Validations\\GroupCreateDtoValidator.cs*",
+              "RelativeToolTip": "StudentGroup\\Validations\\GroupCreateDtoValidator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:42:43.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentUpdateDtoValidator .cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\StudentGroup\\StudentGroup\\Validations\\StudentUpdateDtoValidator .cs",
+              "RelativeDocumentMoniker": "StudentGroup\\Validations\\StudentUpdateDtoValidator .cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\StudentGroup\\StudentGroup\\Validations\\StudentUpdateDtoValidator .cs",
+              "RelativeToolTip": "StudentGroup\\Validations\\StudentUpdateDtoValidator .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:38:23.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\StudentGroup\\StudentGroup\\Validations\\StudentCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "StudentGroup\\Validations\\StudentCreateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\StudentGroup\\StudentGroup\\Validations\\StudentCreateDtoValidator.cs",
+              "RelativeToolTip": "StudentGroup\\Validations\\StudentCreateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:36:57.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentGroup",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\StudentGroup\\StudentGroup\\StudentGroup.csproj",
+              "RelativeDocumentMoniker": "StudentGroup\\StudentGroup.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\StudentGroup\\StudentGroup\\StudentGroup.csproj",
+              "RelativeToolTip": "StudentGroup\\StudentGroup.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-10T08:35:38.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\StudentGroup\\StudentGroup\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "StudentGroup\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\StudentGroup\\StudentGroup\\ServiceRegistration.cs",
+              "RelativeToolTip": "StudentGroup\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:34:02.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\StudentGroup\\StudentGroup\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentGroup\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\StudentGroup\\StudentGroup\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentGroup\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:32:05.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
