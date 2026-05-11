@@ -218,3 +218,4 @@ C:\Users\User\Desktop\StudentGroup\StudentGroup\obj\Debug\net10.0\staticwebasset
 C:\Users\User\Desktop\StudentGroup\StudentGroup\bin\Debug\net10.0\FluentValidation.dll
 C:\Users\User\Desktop\StudentGroup\StudentGroup\bin\Debug\net10.0\FluentValidation.AspNetCore.dll
 C:\Users\User\Desktop\StudentGroup\StudentGroup\bin\Debug\net10.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\User\Desktop\StudentGroup\StudentGroup\obj\Debug\net10.0\StudentGroup.sourcelink.json
